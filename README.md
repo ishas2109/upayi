@@ -1,10 +1,7 @@
-# [upayi.ml](https://upayi.ml/)
+# [urbanpay.me](https://urbanpay.me/)
 ---
 ### Show some :heart: and :star: the repo to support the project
 
-[![GitHub stars](https://img.shields.io/github/stars/cyberboysumanjay/upayi.svg?style=social&label=Star)](https://github.com/cyberboysumanjay/upayi) ![GitHub followers](https://img.shields.io/github/followers/cyberboysumanjay.svg?style=social&label=Follow)
-
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-orange)](https://telegram.dog/sjprojects) [![made-with-flask](https://img.shields.io/badge/Made%20with-Flask-1f425f.svg)](https://flask.palletsprojects.com/) ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/cyberboysumanjay/upayi)
 
 ---
 <div align="center">
@@ -38,7 +35,7 @@
 
 <h2><b>Donate</b></h2>
 <p style="font-size:20px">
-If you wish you can donate to me using my <a href="https://upayi.ml/8863911141@okbizaxis">UPI Link</a> :wink:<br>
+If you wish you can donate to me using my <a href="https://urbanpay.me/8778660709@ybl">UPI Link</a> :wink:<br>
 You can use the above link and donate any amount you wish to test this service :stuck_out_tongue:
 </p>
 
@@ -47,14 +44,13 @@ You can use the above link and donate any amount you wish to test this service :
 <h2><b>Note</b></h2>
 <p style="font-size:20px">
 <b>This service is completely free to use.</b><br>
-Donating doesn't unlock any feature and it's completely optional.<br>It'll help me in covering domain charges<br>(Currently I got it from GitHub Student Pack :stuck_out_tongue_winking_eye:)<br><br>
-Forking this project and <b>changing author name won't make you developer</b>
+Donating doesn't unlock any feature and it's completely optional.<br>
 </p>
 
 ---
 
-<h4><a href="https://upayi.ml/">Click here to create your UPI link</a></h4>
-<h3>Made with :heart: by <a href="https://cyberboysumanjay.github.io" alt="Sumanjay">Sumanjay</a>
+<h4><a href="https://urbanpay.me/">Click here to create your UPI link</a></h4>
+<h3>Made with :heart: by <a href="https://urbanpay.github.io" alt="urbanpay">urbanpay</a>
 </div>
 
 ---
